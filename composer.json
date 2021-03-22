@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-0": {
+            "BeeGame": "app/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
